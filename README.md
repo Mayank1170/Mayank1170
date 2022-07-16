@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # ✨ Github stats <br>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mayank1170&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mayank1170&theme=dark&show_icons=true)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaBansal2310&theme=dark)](https://git.io/streak-stats)
