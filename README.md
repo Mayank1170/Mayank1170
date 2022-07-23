@@ -14,7 +14,6 @@ Here are some ideas to get you started :
 # ✨ Github stats <br>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mayank1170&theme=dark&show_icons=true)
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayank1170&theme=dark)](https://git.io/streak-stats)
 
 # 📫 How to reach me:-<br>
