@@ -16,6 +16,7 @@ Here are some ideas to get you started :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayank1170&theme=dark)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=Mayank1170&style=plastic)
 # 📫 How to reach me:-<br>
 - agarwalmayank1170@gmail.com  
   </p>
