@@ -24,6 +24,10 @@ Connect with me here :
 # ✨ Github stats <br>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mayank1170&theme=dark&show_icons=true)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayank1170&show_icons=true&locale=en&layout=compact" alt="Mayank1170" />
+</p> 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayank1170&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Mayank1170&style=plastic)
