@@ -16,7 +16,7 @@ Here are some ideas to get you started :
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 Connect with me here :
-[![Twitter Badge](https://img.shields.io/badge/-Mayank-darkred?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/__mayank_ag)](https://twitter.com/__mayank_ag)
+[![Twitter Badge](https://img.shields.io/badge/-Mayank-darkred?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mayankXag)](https://twitter.com/mayankXag)
 [![Linkedin Badge](https://img.shields.io/badge/-Mayank_Agarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mayank-agarwal-162457199)](https://www.linkedin.com/in/mayank-agarwal-162457199)
 [![Instagram Badge](https://img.shields.io/badge/-mayank._ag-purple?style=flat-square&logo=instagram&logoColor=white&link=https:https://www.instagram.com/mayank._ag/)](https://www.instagram.com/mayank._ag)
 [![Gmail Badge](https://img.shields.io/badge/-agarwalmayank1170@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agarwalmayank1170@gmail.com)](mailto:agarwalmayank1170@gmail.com)
