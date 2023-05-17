@@ -23,7 +23,7 @@ Connect with me here :
 # ✨ Github stats <br>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Mayank1170&theme=dark&show_icons=true)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayank1170&show_icons=true&locale=en&layout=compact" alt="Mayank1170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayank1170&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mayank1170" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayank1170&theme=dark)](https://git.io/streak-stats)
 
