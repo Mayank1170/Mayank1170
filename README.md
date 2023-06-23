@@ -25,8 +25,7 @@ Connect with me here :
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayank1170&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mayank1170" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayank1170&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mayank1170&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Mayank1170&style=plastic)
   </p>
